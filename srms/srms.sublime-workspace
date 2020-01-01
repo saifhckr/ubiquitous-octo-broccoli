@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"HA",
+				"HAVE"
+			],
+			[
+				"SU",
+				"SUBJECT"
+			],
+			[
+				"VA",
+				"value"
+			],
+			[
+				"sem",
+				"semester"
+			],
+			[
+				"add",
+				"add_teach"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"SE",
+				"Semester"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"sec",
+				"second"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"marks",
+				"marks1"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"add_",
+				"add_teach"
+			],
+			[
+				"lab",
+				"lablewidth"
+			],
+			[
+				"date_o",
+				"Date_of_Birth"
+			],
+			[
+				"stud",
+				"student_logindetails"
+			],
+			[
+				"Da",
+				"Date_of_Birth"
+			],
+			[
+				"Id",
+				"Id"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"se",
+				"semester"
+			],
+			[
+				"te",
+				"teacher_id"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"tea",
+				"teacher_login"
+			],
+			[
+				"fe",
+				"fetch_teach"
+			],
+			[
+				"input",
+				"inputwidth"
+			],
+			[
+				"mar",
+				"mark_attendance"
+			],
+			[
+				"mark",
+				"mark_attendence"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"semster",
+				"semester-1"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"eho",
+				"echo\techo \"…\""
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"pas",
+				"Password"
+			],
+			[
+				"gen",
+				"Gender"
+			],
+			[
+				"stude",
+				"student_id"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"d",
+				"def?\tdefined(…)"
+			],
+			[
+				"teacher",
+				"teacher_id"
+			],
+			[
+				"v",
+				"v4"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"S",
+				"Semester"
+			],
+			[
+				"D",
+				"Date_of_Birth"
+			],
+			[
+				"I",
+				"Id"
+			],
+			[
+				"inp",
+				"inputwidth"
+			],
+			[
+				"N",
+				"Name"
+			],
+			[
+				"r",
+				"roll_no"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"use",
+				"USER"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"lal",
+				"lablewidth"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"PA",
+				"Password"
+			],
+			[
+				"fa",
+				"fa-5x"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"sems",
+				"semester"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"sessio",
+				"session_start"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/srms/admin/add_teach1.php",
+		"/C/wamp/www/srms/teacher/update_details.php",
+		"/C/wamp/www/srms/admin/update_teach.php",
+		"/C/wamp/www/srms/admin/xyz2.php",
+		"/C/wamp/www/srms/admin/xyz.php",
+		"/C/wamp/www/srms/admin/edit_teacher.php",
+		"/C/wamp/www/srms/teacher/upload8.php",
+		"/C/wamp/www/srms/teacher/upload7.php",
+		"/C/wamp/www/srms/teacher/upload6.php",
+		"/C/wamp/www/srms/teacher/upload2.php",
+		"/C/wamp/www/srms/teacher/upload3.php",
+		"/C/wamp/www/srms/teacher/upload5.php",
+		"/C/wamp/www/srms/teacher/upload4.php",
+		"/C/wamp/www/New folder/check6.php",
+		"/C/wamp/www/New folder/check4.php",
+		"/C/wamp/www/New folder/check5.php",
+		"/C/wamp/www/srms/teacher/upload_attendance.php",
+		"/C/wamp/www/New folder/5.php",
+		"/C/wamp/www/New folder/paritycheck.php",
+		"/C/wamp/www/New folder/paritycheck.java",
+		"/C/wamp/www/srms/admin/add_teach.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa8756.28466/Attandanse.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa8756.26476/config.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa8756.25537/session.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa8756.20842/processEmpAttendance.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa8756.18160/login.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa8756.10930/AddAttendance.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa18408.22271/attendance_autofill.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa18408.5654/home.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa18408.2898/db.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa18408.48811/index.php",
+		"/C/wamp/www/New folder/srms/dashboard.php",
+		"/C/wamp/www/New folder/srms/index.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa15784.37984/result.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa15784.21092/add-result.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa15784.11149/change-password.php",
+		"/C/wamp/www/srms/admin/asd2.php",
+		"/C/wamp/www/srms/admin/update_stud.php",
+		"/C/wamp/www/srms/admin/asd.php",
+		"/C/wamp/www/srms/student/asd.php",
+		"/C/wamp/www/srms/student/semester.php",
+		"/C/wamp/www/srms/student/view_attendance.php",
+		"/C/wamp/www/srms/student/view_result.php",
+		"/C/wamp/www/srms/admin/add_sub.php",
+		"/C/wamp/www/srms/admin/welcome.php",
+		"/C/wamp/www/srms/student/Logout.php",
+		"/C/wamp/www/srms/student/home.php",
+		"/C/wamp/www/srms/student/check.php",
+		"/C/wamp/www/srms/test.php",
+		"/C/wamp/www/srms/student/update_details.php",
+		"/C/wamp/www/srms/student/update.php",
+		"/C/wamp/www/srms/teacher/check.php",
+		"/C/wamp/www/srms/teacher/home.php",
+		"/C/wamp/www/srms/teacher/update.php",
+		"/C/wamp/www/srms/teacher/test.php",
+		"/C/wamp/www/srms/admin/abc2.php",
+		"/C/wamp/www/srms/admin/abc.php",
+		"/C/wamp/www/srms/admin/user_edit.php",
+		"/C/wamp/www/srms/teacher/Logout.php",
+		"/C/wamp/www/srms/admin/add_stud.php",
+		"/C/wamp/www/srms/admin/add.php",
+		"/C/wamp/www/srms/admin/add_sem.php",
+		"/C/wamp/www/srms/admin/add_user.php",
+		"/C/wamp/www/srms/admin/check.php",
+		"/C/wamp/www/srms/admin/del_user.php",
+		"/C/wamp/www/srms/admin/delete_stud.php",
+		"/C/wamp/www/srms/admin/delete_teach.php",
+		"/C/wamp/www/srms/admin/edit_account.php",
+		"/C/wamp/www/srms/admin/edit_stud.php",
+		"/C/wamp/www/srms/admin/index.php",
+		"/C/wamp/www/srms/admin/logout.php",
+		"/C/wamp/www/srms/admin/semadded.php",
+		"/C/wamp/www/srms/admin/useradded.php",
+		"/C/wamp/www/srms/function.php",
+		"/C/wamp/www/srms/index.php",
+		"/C/wamp/www/srms/stylesheet.css",
+		"/C/wamp/www/srms/student_login.php",
+		"/C/wamp/www/srms/teacher_login.php",
+		"/C/wamp/www/srms/teacher/upload.php",
+		"/C/wamp/www/New folder/123.php",
+		"/C/wamp/www/test.php",
+		"/C/wamp/www/srms/admin/admin_properties.php",
+		"/C/wamp/www/srms/student/home2.php",
+		"/C/wamp/www/srms/teacher/check1.php",
+		"/C/wamp/www/srms/student/student_login.php",
+		"/C/wamp/www/New folder/t.php",
+		"/C/wamp/www/srms/header.php",
+		"/C/wamp/www/New folder/test2.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.15419/download.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.10772/functions.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa5176.35268/abc.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14004.26518/asd.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14004.6847/asd.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.18616/login.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.19473/check.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.14638/logout.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.13752/login.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa10828.9413/form.php",
+		"/C/wamp/www/srms/config.php",
+		"/C/wamp/www/srms/connect.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.23475/logout.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.48682/edit_category.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.32848/edit_article.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.41251/ajax_request.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.35992/index.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.37712/welcome.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.19824/delete.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.28733/delete_article.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.22226/delete_category.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14168.29666/delete_product.php",
+		"/C/wamp/www/New folder/new.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14200.12870/download.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14200.6188/functions.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14200.11261/logout.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14200.5185/login.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14200.949/check.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14200.47639/download.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa14776.15277/delete.php",
+		"/C/wamp/www/srms/admin/test.php",
+		"/C/wamp/www/srms/admin/s.php",
+		"/C/wamp/www/srms/admin/add1.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa1540.28426/abc.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa6008.22713/asd.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa6008.22305/asd2.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa6008.19790/abc.php",
+		"/C/Users/asus/AppData/Local/Temp/Rar$DIa5444.46551/delete.php"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "srms.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

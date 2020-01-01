@@ -1,0 +1,249 @@
+﻿
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    
+}
+
+a{color:white;}
+
+
+
+text-center {
+    text-align: center;
+}
+
+h1, h2, h3, h5{
+    font-family: 'Nova Flat';
+}
+
+h5{font-size:25px;}
+
+h4 {font-style:Italic;
+font-family: serif;
+font-size:30px;}
+
+h3 {
+    color:#FFF775;
+}
+
+h2:after {
+    content: '';
+    display: block;
+    width: 120px;
+    height: 2px;
+    background: #FF4F4F;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+/*====================================
+   NAV BAR STYLE SECTION
+    ===================================*/
+
+/*Menu Back Color*/
+.navbar-default {
+    background-color: #b30000;
+    border: 0px;
+}
+
+
+/*Set margin bottom*/
+.navbar {
+    margin-bottom: 0px;
+}
+/*Logo Image */
+.navbar-brand-logo {
+	width:150px;
+    height:70px;
+    padding-bottom: 10px;
+	
+}
+/*top-menu links color*/
+.navbar-default .navbar-nav > li > a {
+    color:  #66ffcc;
+    font-size: 16px;
+}
+
+/*top-menu links & margin*/
+.navbar-nav > li > a {
+    margin: 5px 0px 5px 0px;
+    color:  #FFF775!important;
+    font-weight: 800;
+    letter-spacing: 0px;
+}
+
+/*Font-awesome-icon*/
+.nav li > a > i {
+    color:#25f4ca;
+    padding-left: 0px;
+}
+/*dummy small text*/
+.nav li > a > span {
+    font-size: 12px;
+    display: table;
+    color: #00FFFF;
+}
+/*=====================================
+   HEADER SECTION BAR STYLE 
+    ===================================*/
+.header-sec-bar {
+    background-color:#b30000;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
+
+    
+/*=====================================
+ MAIN  HEADER SECTION  STYLE 
+    ===================================*/
+#main-head {
+    color: #fff;
+    padding: 20px 10px 35px 10px;
+    line-height: 40px;
+    font-size: 24px;
+    text-align: center;
+    background-color: #b30000;
+}
+
+    #main-head h5 {
+        padding: 10px 2px 10px 2px;
+    }
+/*=====================================
+ SLIDER SECTION
+    ===================================*/
+#carousel-slider {
+    border: 8px solid #00FFFF;
+}
+
+
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #b30000;
+}
+
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+    background-color:#00FFFF;
+}
+
+/*=====================================
+ BUTTON CODE STYLE 
+    ===================================*/
+
+
+.btn-style-4 {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    color: #fff;
+    background-color:#b30000;
+    border-color: #245e49;
+}
+
+    .btn-style-4:hover {
+        color: #fff;
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transition: all 0.5s ease-in-out;
+    }
+
+.btn-style-2 {
+    color: #fff;
+    background-color: #55068A;
+    border-color: #55068A;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+    .btn-style-2:hover {
+        color: #fff;
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transition: all 0.5s ease-in-out;
+    }
+
+/*=====================================
+ BUDGET SECTION  STYLE 
+    ===================================*/
+#budget {
+    background-color:#E61C1C ;
+    color: #fff;
+    padding: 20px;
+}
+
+/*=====================================
+ VEDIO SECTION  STYLE 
+    ===================================*/
+#vedio-sec {
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+.vedio-style {
+    border: 0px;
+    width: 100%;
+    min-height: 300px;
+    margin-top: 20px;
+}
+
+/*=====================================
+   IMPACT STYLE 
+    ===================================*/
+#impact {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+    #impact h4 {
+        color: #000;
+    }
+
+
+/*=====================================
+  FOOTER STYLES 
+    ===================================*/
+#footer-sec {
+    background-color:#b30000;
+    color: #fff;
+    padding: 20px;
+}
+
+    #footer-sec i {
+        margin-right: 10px;
+    }
+
+    #footer-sec span {
+        font-size: 20px;
+        color: #FF4F4F;
+    }
+
+    #footer-sec small {
+        display: table-cell;
+        color: #000;
+        font-size: 12px;
+    }
+
+
+    #footer-sec .media-heading {
+        color: #fff;
+        font-size: 14px;
+    }
+
+#footser-end {
+    text-align: right;
+    background-color: #E61C1C;
+    color: #fff;
+    padding: 8px;
+}
